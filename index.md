@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Trajectory Generation for Space Systems"
+title: "Optimal Control for Space Systems"
 ---
 
-# Trajectory Generation for Space Systems (EN.530.626)
+# Optimal Control for Space Systems (EN.530.626)
 
 ## Course Description
 This course is an introduction to the techniques and methods used to design and synthesize trajectories for a broad class of space systems.
