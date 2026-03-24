@@ -6,10 +6,10 @@ title: "Optimal Control for Space Systems"
 # Optimal Control for Space Systems (EN.530.626)
 
 ## Course Description
-This course is an introduction to the techniques and methods used to design and synthesize trajectories for a broad class of space systems.
-In particular, we will focus on optimization-based techniques for trajectory generation and study optimal control formulations for solving trajectory optimization and model predictive control problems.
-Applications of interest will include interplanetary trajectory optimization, rocket entry-descent-landing, asteroid proximity operations, and planetary rover path planning.
-A strong emphasis will be placed on practical applications through coding implementations in Python and evaluation in simple simulation environments.
+Trajectory design and control for aerospace systems encompasses a broad range of system dynamics, physical constraints, and other safety considerations.
+Optimal control offers a powerful paradigm to solve such problems and this course introduces the theoretical and practical foundations of optimal control as applied to aerospace and robotic applications.
+In particular, a strong emphasis is placed on real-time planning and control via the use of on-board numerical optimization and students will apply theoretical insights from trajectory optimization and model predictive control for developing real-time controllers.
+Students will apply this theory to practice through coding implementations in Python and evaluation in simple simulation environments, with applications including planetary rover path planning, rocket powered descent guidance, and spacecraft controls.
 Finally, a course project will be included to allow students to gain further experience on an algorithm or application of their choice.
 
 ## Instructors 
