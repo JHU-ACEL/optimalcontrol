@@ -42,26 +42,26 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |  3   | 09/15  | Constrained optimization (Pt. 2)                 | [Lecture 5 Notes](./assets/pdf/lecture_5.pdf)| [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/kkt.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/newton.pdf)                   |
 |      | 09/17 | Constrained optimization (Pt. 3)                 | HW1 Due, [HW2 Released](./assets/pdf/HW2.pdf), [Lecture 6 Notes](./assets/pdf/lecture_6.pdf)|     [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf)               |
 | 4     | 09/22  | Constrained optimization (Pt. 4) | [Lecture 7 Notes](./assets/pdf/lecture_7.pdf) |                    |
-|     | 09/18 | Off-the-shelf trajectory optimization | [Lecture 8 Slides](./assets/pdf/lecture_8.pdf)    | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723)                   |
-| 5     | 09/24 | From continuous to discrete optimal control |  [Lecture 9 Notes](./assets/pdf/lecture_9.pdf) |    |
-|     | 09/25 | Powered descent guidance |  [Lecture 10 Notes](./assets/pdf/lecture_10.pdf), Final project proposal due |   [1](https://arc.aiaa.org/doi/10.2514/1.27553), [2](https://arc.aiaa.org/doi/10.2514/1.47202)    |
-| 6     | 09/29  | Planning over orientations (Pt. 1) | [Lecture 11 Notes](./assets/pdf/lecture_11.pdf)  | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
-|    | 10/01 |  Planning over orientations (Pt. 2) | |  |
-| 7    | 10/06  | Combinatorial planning with integer programs                | [Lecture 13 Notes](./assets/pdf/lecture_13.pdf), HW2 Due, [HW3 Released](./assets/pdf/HW3.pdf)  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
-|      | 10/08  | Sampling-based motion planning |        [Lecture 14 Slides](./assets/pdf/lecture_14.pdf)   |                    |
-| 8    | 10/13  | Surface rover path planning |                             |    |
-|      | 10/15  | **No Lecture (Fall Break)** |  |                    |
-| 9    | 10/20  | Inverse classroom (mid-semester checkpoint) |   HW3 Due, [HW4 Released](./assets/pdf/HW4.pdf), [Lecture 17 Notes](./assets/pdf/lecture_17.pdf) |         |
-|      | 10/22  | Long and short range planner hierarchies |  [Lecture 18 Slides](./assets/pdf/lecture_18.pdf)     |                    |
-| 10   | 10/27  | Derivative-free methods for trajectory optimization |                             |    [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921)                |
-|      | 10/29  | Uncertainty propagation |  |  [1](https://arxiv.org/pdf/2408.05970), [2](https://www.sciencedirect.com/science/article/pii/S0376042116301051)    |
-| 11   | 11/03  | Stochastic optimal control (Pt. 1)   |  HW4 Due |  [1](https://ieeexplore.ieee.org/document/7740982), [2](https://arxiv.org/pdf/2412.17358), [3](https://arxiv.org/abs/2404.16269)   |
-|      | 11/05  | **Midterm Exam**                                 |  [HW5 Released](./assets/pdf/HW5.pdf)                           |                    |
-| 12   | 11/10  | Guest lecture (Dr. Bobby Braun) |                             | [1](https://arc.aiaa.org/doi/10.2514/1.41161), [2](https://arc.aiaa.org/doi/abs/10.2514/6.2008-6216) |
-|      | 11/12  | Stochastic optimal control (Pt. 2) | [Lecture 24 Slides](./assets/pdf/lecture_24.pdf)   |    |
-| 13   | 11/17  | Learning value functions | [Lecture 25 Slides](./assets/pdf/lecture_25.pdf)  |   |
-|      | 11/19  | Differentiable MPC |    HW5 Due, [Lecture 26 Slides](./assets/pdf/lecture_26.pdf) | [1](https://arxiv.org/pdf/2504.15851v1), [2](https://link.springer.com/article/10.1007/BF01580677) |
-| 14   | 11/24  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
+|     | 09/24 | Off-the-shelf trajectory optimization | [Lecture 8 Slides](./assets/pdf/lecture_8.pdf)    | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723)                   |
+| 5     | 09/29 | From continuous to discrete optimal control |  [Lecture 9 Notes](./assets/pdf/lecture_9.pdf) |    |
+|     | 10/01 | Powered descent guidance |  [Lecture 10 Notes](./assets/pdf/lecture_10.pdf), Final project proposal due |   [1](https://arc.aiaa.org/doi/10.2514/1.27553), [2](https://arc.aiaa.org/doi/10.2514/1.47202)    |
+| 6     | 10/06  | Planning over orientations (Pt. 1) | [Lecture 11 Notes](./assets/pdf/lecture_11.pdf)  | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
+|    | 10/08 |  Planning over orientations (Pt. 2) | |  |
+| 7    | 10/13  | Combinatorial planning with integer programs                | [Lecture 13 Notes](./assets/pdf/lecture_13.pdf), HW2 Due, [HW3 Released](./assets/pdf/HW3.pdf)  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
+|      | 10/15  | Sampling-based motion planning |        [Lecture 14 Slides](./assets/pdf/lecture_14.pdf)   |                    |
+| 8    | 10/20  | Surface rover path planning |                             |    |
+|      | 10/22  | **No Lecture (Fall Break)** |  |                    |
+| 9    | 10/27  | Inverse classroom (mid-semester checkpoint) |   HW3 Due, [HW4 Released](./assets/pdf/HW4.pdf), [Lecture 17 Notes](./assets/pdf/lecture_17.pdf) |         |
+|      | 10/29  | Long and short range planner hierarchies |  [Lecture 18 Slides](./assets/pdf/lecture_18.pdf)     |                    |
+| 10   | 11/03  | Derivative-free methods for trajectory optimization |                             |    [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921)                |
+|      | 11/05  | Uncertainty propagation |  |  [1](https://arxiv.org/pdf/2408.05970), [2](https://www.sciencedirect.com/science/article/pii/S0376042116301051)    |
+| 11   | 11/10  | Stochastic optimal control (Pt. 1)   |  HW4 Due |  [1](https://ieeexplore.ieee.org/document/7740982), [2](https://arxiv.org/pdf/2412.17358), [3](https://arxiv.org/abs/2404.16269)   |
+|      | 11/12  | **Midterm Exam**                                 |  [HW5 Released](./assets/pdf/HW5.pdf)                           |                    |
+| 12   | 11/17  | Guest lecture (TBD) |                             | [1](https://arc.aiaa.org/doi/10.2514/1.41161), [2](https://arc.aiaa.org/doi/abs/10.2514/6.2008-6216) |
+|      | 11/19  | Stochastic optimal control (Pt. 2) | [Lecture 24 Slides](./assets/pdf/lecture_24.pdf)   |    |
+| 13   | 11/24  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
 |      | 11/26  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
-| 15   | 12/01  | Final project presentations                      |                             |                    |
-|      | 12/03  | Final project presentations                      |                             |                    | 
+| 14   | 12/01 | Learning value functions | [Lecture 25 Slides](./assets/pdf/lecture_25.pdf)  |   |
+|      | 12/03  | Differentiable MPC |    HW5 Due, [Lecture 26 Slides](./assets/pdf/lecture_26.pdf) | [1](https://arxiv.org/pdf/2504.15851v1), [2](https://link.springer.com/article/10.1007/BF01580677) |
+| 15   | 12/08  | Final project presentations                      |                             |                    |
+|      | 12/10  | Final project presentations                      |                             |                    |
