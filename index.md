@@ -65,8 +65,3 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |      | 11/26  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
 | 15   | 12/01  | Final project presentations                      |                             |                    |
 |      | 12/03  | Final project presentations                      |                             |                    | 
-
-## Class Calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?src=d6dad31de5e5051b5a5e5401eb546b4d4afa10b4a0cb2d6f8332d35854175596%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
