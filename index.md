@@ -15,10 +15,13 @@ Finally, a course project will be included to allow students to gain further exp
 ## Instructors 
 [Prof. Abhishek Cauligi](https://acauligi.github.io)
 
-## Course Assistants 
+## Course Assistants
+Patrick Schwartz
+
+Marvat Johri
 
 ## Meeting Times
-Lectures will be held on Tuesdays and Thursdays from  1:30-2:45PM in Hodson 216.
+Lectures will be held on Tuesdays and Thursdays from 1:30-2:45PM in Latrobe 107.
 
 ## Office Hours
 Office hours will begin from the second week of the semester. Fall 2026 office hours will be announced at the start of the semester.
@@ -33,35 +36,35 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 
 ## Schedule
 
-| Week | Date   | Topics Covered                                   | Notes                       | Suggested Readings |
-|------|--------|--------------------------------------------------|-----------------------------|--------------------|
-| 1    | 09/01  | Intro: linear algebra & differential equations review |                             | [Learn git](https://learngitbranching.js.org/?locale=en_US), [Learn shell](https://www.learnshell.org/), [Docker tutorial](https://docker-curriculum.com/)                   |
-|      | 09/03  | Linear systems theory                            | [Lecture 2 Notes](./assets/pdf/lecture_2.pdf)  |  [1](https://ee263.stanford.edu/lectures/lds.pdf), [2](https://ee263.stanford.edu/lectures/expm.pdf)                  |
-| 2    | 09/08  | Optimization fundamentals |[Lecture 3 Notes](./assets/pdf/lecture_3.pdf),  [HW1 Released](./assets/pdf/HW1.pdf) |  [1](https://arxiv.org/abs/2510.15734) |
-|      | 09/10  | Constrained optimization (Pt. 1)                 | [Lecture 4 Notes](./assets/pdf/lecture_4.pdf)    | [1](https://ee263.stanford.edu/lectures/25q3/original/10_ls.pdf), [2](https://ee263.stanford.edu/lectures/25q3/original/13_min-norm.pdf)                   |
-|  3   | 09/15  | Constrained optimization (Pt. 2)                 | [Lecture 5 Notes](./assets/pdf/lecture_5.pdf)| [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/kkt.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/newton.pdf)                   |
-|      | 09/17 | Constrained optimization (Pt. 3)                 | HW1 Due, [HW2 Released](./assets/pdf/HW2.pdf), [Lecture 6 Notes](./assets/pdf/lecture_6.pdf)|     [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf)               |
-| 4     | 09/22  | Constrained optimization (Pt. 4) | [Lecture 7 Notes](./assets/pdf/lecture_7.pdf) |                    |
-|     | 09/24 | Off-the-shelf trajectory optimization | [Lecture 8 Slides](./assets/pdf/lecture_8.pdf)    | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723)                   |
-| 5     | 09/29 | From continuous to discrete optimal control |  [Lecture 9 Notes](./assets/pdf/lecture_9.pdf) |    |
-|     | 10/01 | Powered descent guidance |  [Lecture 10 Notes](./assets/pdf/lecture_10.pdf), Final project proposal due |   [1](https://arc.aiaa.org/doi/10.2514/1.27553), [2](https://arc.aiaa.org/doi/10.2514/1.47202)    |
-| 6     | 10/06  | Planning over orientations (Pt. 1) | [Lecture 11 Notes](./assets/pdf/lecture_11.pdf)  | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
-|    | 10/08 |  Planning over orientations (Pt. 2) | |  |
-| 7    | 10/13  | Combinatorial planning with integer programs                | [Lecture 13 Notes](./assets/pdf/lecture_13.pdf), HW2 Due, [HW3 Released](./assets/pdf/HW3.pdf)  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
-|      | 10/15  | Sampling-based motion planning |        [Lecture 14 Slides](./assets/pdf/lecture_14.pdf)   |                    |
-| 8    | 10/20  | Surface rover path planning |                             |    |
-|      | 10/22  | **No Lecture (Fall Break)** |  |                    |
-| 9    | 10/27  | Inverse classroom (mid-semester checkpoint) |   HW3 Due, [HW4 Released](./assets/pdf/HW4.pdf), [Lecture 17 Notes](./assets/pdf/lecture_17.pdf) |         |
-|      | 10/29  | Long and short range planner hierarchies |  [Lecture 18 Slides](./assets/pdf/lecture_18.pdf)     |                    |
-| 10   | 11/03  | Derivative-free methods for trajectory optimization |                             |    [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921)                |
-|      | 11/05  | Uncertainty propagation |  |  [1](https://arxiv.org/pdf/2408.05970), [2](https://www.sciencedirect.com/science/article/pii/S0376042116301051)    |
-| 11   | 11/10  | Stochastic optimal control (Pt. 1)   |  HW4 Due |  [1](https://ieeexplore.ieee.org/document/7740982), [2](https://arxiv.org/pdf/2412.17358), [3](https://arxiv.org/abs/2404.16269)   |
-|      | 11/12  | **Midterm Exam**                                 |  [HW5 Released](./assets/pdf/HW5.pdf)                           |                    |
-| 12   | 11/17  | Guest lecture (TBD) |                             | [1](https://arc.aiaa.org/doi/10.2514/1.41161), [2](https://arc.aiaa.org/doi/abs/10.2514/6.2008-6216) |
-|      | 11/19  | Stochastic optimal control (Pt. 2) | [Lecture 24 Slides](./assets/pdf/lecture_24.pdf)   |    |
-| 13   | 11/24  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
-|      | 11/26  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
-| 14   | 12/01 | Learning value functions | [Lecture 25 Slides](./assets/pdf/lecture_25.pdf)  |   |
-|      | 12/03  | Differentiable MPC |    HW5 Due, [Lecture 26 Slides](./assets/pdf/lecture_26.pdf) | [1](https://arxiv.org/pdf/2504.15851v1), [2](https://link.springer.com/article/10.1007/BF01580677) |
-| 15   | 12/08  | Final project presentations                      |                             |                    |
-|      | 12/10  | Final project presentations                      |                             |                    |
+| Week | Date | Topics Covered | Notes | Suggested Readings |
+|------|------|-----------------|--------------|---------------------|
+| 1 | 09/01 | Course introduction | | [Learn git](https://learngitbranching.js.org/?locale=en_US), [Learn shell](https://www.learnshell.org/), [Docker tutorial](https://docker-curriculum.com/) |
+|  | 09/03| Gradient descent and Newton method | HW1 Out | [1](https://arxiv.org/abs/2510.15734) |
+| 2 | 09/08 | Linear least squares | | [1](https://ee263.stanford.edu/lectures/25q3/original/10_ls.pdf)  |
+|  | 09/10 | Linear least norm and equality-constrained Newton method | | [1](https://ee263.stanford.edu/lectures/25q3/original/13_min-norm.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/newton.pdf) |
+| 3  | 09/15 | Inequality constrained optimization |  | |
+| | 09/17| Duality and KKT conditions | HW1 In, HW2 Out | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/kkt.pdf) |
+| 4 | 09/22 | Primal-dual interior point methods | Quiz 1 | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf) |
+|  | 09/24| Linear systems theory | | [1](https://ee263.stanford.edu/lectures/lds.pdf), [2](https://ee263.stanford.edu/lectures/expm.pdf) |
+| 5 | 09/29 | From continuous to discrete optimal control | | |
+|  | 10/01 | Off-the-shelf trajectory optimization | HW2 In, HW3 Out | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723) |
+| 6 | 10/06 | Powered descent guidance | Quiz 2 | [1](https://arc.aiaa.org/doi/10.2514/1.27553), [2](https://arc.aiaa.org/doi/10.2514/1.47202) |
+|   | 10/08 | Linear quadratic regulator | | |
+| 7  | 10/13 | Differentiable optimization | | [1](https://arxiv.org/pdf/2504.15851v1), [2](https://link.springer.com/article/10.1007/BF01580677) |
+|   | 10/15 | Combinatorial planning with integer programs | HW3 In, HW4 Out  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943) |
+| 8 | 10/20 | Sampling-based motion planning | Quiz 3 | |
+|   | 10/22 | **No Lecture (Fall Break)** | | |
+| 9 | 10/27 | Surface rover path planning |  | |
+|   | 10/9 | Inverse classroom (mid-semester checkpoint) | HW4 In, HW5 Out | |
+| 10 | 11/03 | Long and short range planner hierarchies |  | |
+|   | 11/05 | Derivative-free methods for trajectory optimization | Quiz 4 | [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921) |
+| 11 | 11/10 | Guest Lecture by Dr. Justin Atchison | | |
+|    | 11/12 | | HW5 In | |
+| 12 | 11/17 | Stochastic optimal control (Pt. 1)  | Quiz 5 | |
+|    | 11/19| Stochastic optimal control (Pt. 2) | | |
+| 13 | 11/24 | **No Lecture (Thanksgiving Break)** | | |
+|    | 11/26 | **No Lecture (Thanksgiving Break)** | | |
+| 14 | 12/01 | Special topics (TBD) | | |
+|    | 12/03 | Special topics (TDB) | | |
+| 15 | 12/08 | Final project presentations | | |
+|    | 12/10 | Final project presentations | | |
