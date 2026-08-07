@@ -54,9 +54,9 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |   | 10/15 | Combinatorial planning with integer programs | HW3 In, HW4 Out  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943) |
 | 8 | 10/20 | Sampling-based motion planning | Quiz 3 | |
 |   | 10/22 | **No Lecture (Fall Break)** | | |
-| 9 | 10/27 | Surface rover path planning |  | |
+| 9 | 10/27 | Inverse classroom (mid-semester checkpoint) |  | |
 |   | 10/29 | Guest Lecture by Parth Nobel | HW4 In, HW5 Out | [1](https://arxiv.org/pdf/2606.14891) |
-| 10 | 11/03 | Inverse classroom (mid-semester checkpoint) |  | |
+| 10 | 11/03 | Surface rover path planning |  | |
 |   | 11/05 | Long and short range planner hierarchies | Quiz 4 | [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921) |
 | 11 | 11/10 | Guest Lecture by Dr. Justin Atchison | | |
 |    | 11/12 | Derivative-free methods for trajectory optimization | HW5 In | |
