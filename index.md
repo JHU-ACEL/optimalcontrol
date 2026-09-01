@@ -42,9 +42,9 @@ Lectures will be held on Tuesdays and Thursdays from 1:30-2:45PM in Latrobe 107.
 ## Office Hours
 Office hours will begin from the second week of the semester. Fall 2026 office hours will be announced at the start of the semester.
 
-- **Prof. Abhishek Cauligi**: TBD
-- **Patrick Schwartz**: Wednesday, 11am-12pm
-- **Marvat Johri**: Monday, 3pm-4pm
+- **Prof. Abhishek Cauligi**: Thursday 3--4PM (Hackerman 117).
+- **Patrick Schwartz**: Wednesday, 10---11AM (Hackerman 111).
+- **Marvat Johri**: Monday, 3---4PM (Hackerman 111).
 
 ## Syllabus
 The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
