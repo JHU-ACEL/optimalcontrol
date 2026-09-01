@@ -13,12 +13,28 @@ Students will apply this theory to practice through coding implementations in Py
 Finally, a course project will be included to allow students to gain further experience on an algorithm or application of their choice.
 
 ## Instructors 
-[Prof. Abhishek Cauligi](https://acauligi.github.io)
+<!-- [Prof. Abhishek Cauligi](https://acauligi.github.io) -->
+<div style="margin-bottom: 20px;">
+  <img src="./assets/images/Cauligi.jpg" alt="Prof. Abhishek Cauligi" style="width: 187.5px; height: 187.5px; object-fit: cover; border-radius: 8px;">
+  <p><a href="https://acauligi.github.io">Prof. Abhishek Cauligi</a></p>
+</div>
 
 ## Course Assistants
-Patrick Schwartz
+<!-- Patrick Schwartz
 
-Marvat Johri
+Marvat Johri -->
+
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="./assets/images/pschwartz.jpeg" alt="Patrick Schwartz" style="width: 187.5px; height: 187.5px; object-fit: cover; border-radius: 8px;">
+    <p>Patrick Schwartz</p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="./assets/images/mjohri.jpeg" alt="Marvat Johri" style="width: 187.5px; height: 187.5px; object-fit: cover; border-radius: 8px;">
+    <p>Marvat Johri</p>
+  </div>
+</div>
 
 ## Meeting Times
 Lectures will be held on Tuesdays and Thursdays from 1:30-2:45PM in Latrobe 107.
