@@ -82,7 +82,7 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |    | 11/26 | **No Lecture (Thanksgiving Break)** | | |
 | 14 | 12/01 | Special topics (TBD) | | |
 |    | 12/03 | Special topics (TDB) | | |
-| 15 | 12/08 | Final project presentations | | |
-|    | 12/10 | Final project presentations | | |
-| 16 | 12/15 | **No Lecture (Exam Week)** | Final project report in | |
+| 15 | 12/08 | Teaching team evaluations | Final project report in | |
+|    | 12/10 | Teaching team evaluations | | |
+| 16 | 12/15 | Final project presentations (6 - 9PM) | | |
 |    | 12/17 | **No Lecture (Exam Week)** | | |
