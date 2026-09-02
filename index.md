@@ -64,24 +64,24 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |  | 09/10 | Linear least norm and equality-constrained Newton method | | [1](https://ee263.stanford.edu/lectures/25q3/original/13_min-norm.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/newton.pdf) |
 | 3  | 09/15 | Inequality constrained optimization |  | |
 | | 09/17| Duality and KKT conditions | HW1 In, HW2 Out | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/kkt.pdf) |
-| 4 | 09/22 | Primal-dual interior point methods | Quiz 1 | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf) |
-|  | 09/24| Linear systems theory | | [1](https://ee263.stanford.edu/lectures/lds.pdf), [2](https://ee263.stanford.edu/lectures/expm.pdf) |
-| 5 | 09/29 | From continuous to discrete optimal control | Final project proposals in | |
+| 4 | 09/22 | Primal-dual interior point methods |  | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf) |
+|  | 09/24| Linear systems theory | Quiz 1 | [1](https://ee263.stanford.edu/lectures/lds.pdf), [2](https://ee263.stanford.edu/lectures/expm.pdf) |
+| 5 | 09/29 | From continuous to discrete optimal control | | |
 |  | 10/01 | Off-the-shelf trajectory optimization | HW2 In, HW3 Out | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723) |
-| 6 | 10/06 | Powered descent guidance | Quiz 2 | [1](https://arc.aiaa.org/doi/10.2514/1.27553), [2](https://arc.aiaa.org/doi/10.2514/1.47202) |
-|   | 10/08 | Linear quadratic regulator | | |
-| 7  | 10/13 | Differentiable optimization | | [1](https://arxiv.org/pdf/2504.15851v1), [2](https://link.springer.com/article/10.1007/BF01580677) |
+| 6 | 10/06 | Powered descent guidance |  | [1](https://arc.aiaa.org/doi/10.2514/1.27553), [2](https://arc.aiaa.org/doi/10.2514/1.47202) |
+|   | 10/08 | Linear quadratic regulator | Quiz 2  | |
+| 7  | 10/13 | Differentiable optimization | Final project proposals in | [1](https://arxiv.org/pdf/2504.15851v1), [2](https://link.springer.com/article/10.1007/BF01580677) |
 |   | 10/15 | Combinatorial planning with integer programs | HW3 In, HW4 Out  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943) |
-| 8 | 10/20 | Sampling-based motion planning | Quiz 3 | |
+| 8 | 10/20 | Sampling-based motion planning | | |
 |   | 10/22 | **No Lecture (Fall Break)** | | |
-| 9 | 10/27 | Inverse classroom (mid-semester checkpoint) |  | |
+| 9 | 10/27 | Inverse classroom (mid-semester checkpoint) | Quiz 3 | |
 |   | 10/29 | Guest lecture by Parth Nobel | HW4 In | [1](https://arxiv.org/pdf/2606.14891) |
-| 10 | 11/03 | Surface rover path planning | Quiz 4  | |
-|   | 11/05 | Long and short range planner hierarchies | |  |
+| 10 | 11/03 | Surface rover path planning |  | |
+|   | 11/05 | Long and short range planner hierarchies | Quiz 4 |  |
 | 11 | 11/10 | Guest lecture by Dr. Justin Atchison | | |
 |    | 11/12 | Derivative-free methods for trajectory optimization | | [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921) |
-| 12 | 11/17 | Stochastic optimal control (Pt. 1)  | Quiz 5 | |
-|    | 11/19| Stochastic optimal control (Pt. 2) | | |
+| 12 | 11/17 | Stochastic optimal control (Pt. 1)  | | |
+|    | 11/19| Stochastic optimal control (Pt. 2) | Quiz 5  | |
 | 13 | 11/24 | **No Lecture (Thanksgiving Break)** | | |
 |    | 11/26 | **No Lecture (Thanksgiving Break)** | | |
 | 14 | 12/01 | Special topics (TBD) | | |
