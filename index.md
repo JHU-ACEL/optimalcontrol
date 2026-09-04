@@ -58,8 +58,8 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 
 | Week | Date | Topics Covered | Notes | Suggested Readings |
 |------|------|-----------------|--------------|---------------------|
-| 1 | 09/01 | Course introduction | [Lecture 1](./assets/pdf/lecture_1.pdf) | [Learn git](https://learngitbranching.js.org/?locale=en_US), [Learn shell](https://www.learnshell.org/), [Docker tutorial](https://docker-curriculum.com/) |
-|  | 09/03| Gradient descent and Newton method | [HW1](./assets/pdf/homework_1.pdf) Out | [1](https://arxiv.org/abs/2510.15734) |
+| 1 | 09/01 | Course introduction | [L1 Notes](./assets/pdf/lecture_1.pdf) | [Learn git](https://learngitbranching.js.org/?locale=en_US), [Learn shell](https://www.learnshell.org/), [Docker tutorial](https://docker-curriculum.com/) |
+|  | 09/03| Gradient descent and Newton method | [HW1 Out](./assets/pdf/homework_1.pdf), [L2 Notes](./assets/pdf/lecture_2.pdf) | [1](https://arxiv.org/abs/2510.15734) |
 | 2 | 09/08 | Linear least squares | | [1](https://ee263.stanford.edu/lectures/25q3/original/10_ls.pdf)  |
 |  | 09/10 | Linear least norm and equality-constrained Newton method | | [1](https://ee263.stanford.edu/lectures/25q3/original/13_min-norm.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/newton.pdf) |
 | 3  | 09/15 | Inequality constrained optimization |  | |
