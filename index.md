@@ -49,6 +49,15 @@ Office hours will begin from the second week of the semester. Fall 2026 office h
 ## Syllabus
 The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 
+## External Resources
+
+Some helpful external resources for reviewing linear algebra are listed below:
+
+
+- [MIT OpenCourseWare: Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) Professor Gilbert Strang's video lectures from his MIT course 18.06 Linear Algebra
+- [3Blue1Brown: Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra), a video series on youtube with animation tools to help visualize several concepts.
+- [Stanford EE263 Course Notes](https://ee263.stanford.edu/archive/lin-alg.pdf), for a one lecture summary on some of the useful linear algebra concepts required for the class.
+
 ## Final Project
 This class will culminate with a final project that will allow students to explore topics of their interest and pursue potential research applications.
 Details on the final project can be found [here](./assets/pdf/final_project.pdf). 
