@@ -68,22 +68,22 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 | Week | Date | Topics Covered | Notes | Suggested Readings |
 |------|------|-----------------|--------------|---------------------|
 | 1 | 09/01 | Course introduction | [L1 Notes](./assets/pdf/lecture_1.pdf) | [Learn git](https://learngitbranching.js.org/?locale=en_US), [Learn shell](https://www.learnshell.org/), [Docker tutorial](https://docker-curriculum.com/) |
-|  | 09/03| Gradient descent and Newton method | [HW1 Out](./assets/pdf/homework_1.pdf), [L2 Notes](./assets/pdf/lecture_2.pdf) | [1](https://ocw.mit.edu/courses/15-084j-nonlinear-programming-spring-2004/f8e5bd09d99cc296e0f5af25bf607e49_lec1_unconstr_opt.pdf) |
-| 2 | 09/08 | Linear least squares | [L3 Notes](./assets/pdf/lecture_3.pdf) | [1](https://ee263.stanford.edu/lectures/25q3/original/10_ls.pdf)  |
-|  | 09/10 | Linear least norm and equality-constrained Newton method | [L5 Notes](./assets/pdf/lecture_5.pdf) | [1](https://ee263.stanford.edu/lectures/25q3/original/13_min-norm.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/newton.pdf) |
-| 3  | 09/15 | Inequality constrained optimization |  | |
-| | 09/17| Duality and KKT conditions | HW1 In, [HW2 Out](./assets/pdf/homework_2.pdf) | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/kkt.pdf) |
-| 4 | 09/22 | Primal-dual interior point methods |  | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf) |
-|  | 09/24| Linear systems theory | Quiz 1 | [1](https://ee263.stanford.edu/lectures/lds.pdf), [2](https://ee263.stanford.edu/lectures/expm.pdf) |
-| 5 | 09/29 | From continuous to discrete optimal control | | |
-|  | 10/01 | Off-the-shelf trajectory optimization | HW2 In, HW3 Out | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723) |
-| 6 | 10/06 | Powered descent guidance |  | [1](https://arc.aiaa.org/doi/10.2514/1.27553), [2](https://arc.aiaa.org/doi/10.2514/1.47202) |
-|   | 10/08 | Linear quadratic regulator | Quiz 2  | |
-| 7  | 10/13 | Differentiable optimization | Final project proposals in | [1](https://arxiv.org/pdf/2504.15851v1), [2](https://link.springer.com/article/10.1007/BF01580677) |
-|   | 10/15 | Combinatorial planning with integer programs | HW3 In, HW4 Out  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943) |
-| 8 | 10/20 | Sampling-based motion planning | | |
+|  | 09/03| Linear algebra and complexity | [HW1 Out](./assets/pdf/homework_1.pdf), [L2 Notes](./assets/pdf/lecture_2.pdf) |  |
+| 2 | 09/08 | Gradient descent and Newton method | [L3 Notes](./assets/pdf/lecture_3.pdf) | [1](https://ocw.mit.edu/courses/15-084j-nonlinear-programming-spring-2004/f8e5bd09d99cc296e0f5af25bf607e49_lec1_unconstr_opt.pdf)  |
+|  | 09/10 | Linear least squares | [L5 Notes](./assets/pdf/lecture_5.pdf) | [1](https://ee263.stanford.edu/lectures/25q3/original/10_ls.pdf) |
+| 3  | 09/15 | Linear least norm and equality-constrained Newton method |  | [1](https://ee263.stanford.edu/lectures/25q3/original/13_min-norm.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/newton.pdf)|
+| | 09/17| Inequality constrained optimization | HW1 In, [HW2 Out](./assets/pdf/homework_2.pdf) |  |
+| 4 | 09/22 | Duality and KKT conditions |  | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/kkt.pdf) |
+|  | 09/24| Primal-dual interior point methods | Quiz 1 | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf) |
+| 5 | 09/29 | Linear systems theory | | [1](https://ee263.stanford.edu/lectures/lds.pdf), [2](https://ee263.stanford.edu/lectures/expm.pdf) |
+|  | 10/01 | From continuous to discrete optimal control | |  |
+| 6 | 10/06 | Off-the-shelf trajectory optimization |  | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723) |
+|   | 10/08 | Powered descent guidance | HW2 In, HW3 Out   | [1](https://arc.aiaa.org/doi/10.2514/1.27553), [2](https://arc.aiaa.org/doi/10.2514/1.47202) |
+| 7  | 10/13 | Linear quadratic regulator | Final project proposals in |  |
+|   | 10/15 | Differentiable optimization | Quiz 2  | [1](https://arxiv.org/pdf/2504.15851v1), [2](https://link.springer.com/article/10.1007/BF01580677) |
+| 8 | 10/20 | Combinatorial planning with integer programs | HW3 In, HW4 Out | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943) |
 |   | 10/22 | **No Lecture (Fall Break)** | | |
-| 9 | 10/27 | Inverse classroom (mid-semester checkpoint) | Quiz 3 | |
+| 9 | 10/27 | Sampling-based motion planning | Quiz 3 | |
 |   | 10/29 | Guest lecture by Parth Nobel | HW4 In | [1](https://arxiv.org/pdf/2606.14891) |
 | 10 | 11/03 | Surface rover path planning |  | |
 |   | 11/05 | Long and short range planner hierarchies | Quiz 4 |  |
