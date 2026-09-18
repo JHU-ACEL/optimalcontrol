@@ -72,7 +72,7 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 | 2 | 09/08 | Linear least squares | [L3 Notes](./assets/pdf/lecture_3.pdf) | [1](https://ee263.stanford.edu/lectures/25q3/original/10_ls.pdf)  |
 |  | 09/10 | Linear least norm and equality-constrained Newton method | [L5 Notes](./assets/pdf/lecture_5.pdf) | [1](https://ee263.stanford.edu/lectures/25q3/original/13_min-norm.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/newton.pdf) |
 | 3  | 09/15 | Inequality constrained optimization |  | |
-| | 09/17| Duality and KKT conditions | HW1 In, [HW2 Out]((./assets/pdf/homework_2.pdf)) | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/kkt.pdf) |
+| | 09/17| Duality and KKT conditions | HW1 In, [HW2 Out](./assets/pdf/homework_2.pdf) | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/kkt.pdf) |
 | 4 | 09/22 | Primal-dual interior point methods |  | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf) |
 |  | 09/24| Linear systems theory | Quiz 1 | [1](https://ee263.stanford.edu/lectures/lds.pdf), [2](https://ee263.stanford.edu/lectures/expm.pdf) |
 | 5 | 09/29 | From continuous to discrete optimal control | | |
